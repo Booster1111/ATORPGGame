@@ -19,6 +19,9 @@ First:
 
 https://www.loom.com/share/43412d13a1a54f6ea7e28f8f2577a449
 
+![Buttle_FPS_Moment](https://user-images.githubusercontent.com/89033750/161437319-01a544c9-a0f4-43e2-b93d-165a79354163.jpg)
+![Buttle_FPS_Moment1](https://user-images.githubusercontent.com/89033750/161437324-1e4c64ae-2524-4e83-a567-4012c348dc73.jpg)
+
 1. Install the correct Unity version to open this project.  The current project Unity version is 2020.3.25f1
 1. Clone this repository into a directory on your computer
 1. Open the Unity Hub and add the project
